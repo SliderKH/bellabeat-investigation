@@ -14,5 +14,7 @@ Stakeholders:
 ##
 ## 2. Prepare
 Data Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+
 Sample Size: 30 
+
 940 Rows x 15 Columns
