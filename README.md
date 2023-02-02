@@ -33,13 +33,13 @@ Duplicate check, NA values, data formats, data frame sizes, number of unique ids
 
 The pie chart reveals that 81.3% of users' daily activity was spent in sedentary minutes and only 1.74% in very active minutes, with the remaining time divided among fairly active and lightly active minutes.
 
-![image](https://user-images.githubusercontent.com/47353881/216394017-8e1275b5-1d66-4476-9b1d-1cd1629abfc8.png)
+<img width="504" alt="image" src="https://user-images.githubusercontent.com/47353881/216405654-5d798cfc-f790-4977-af93-fbff2faad5bc.png">
 
 The correlation between total minutes of sleep and total time in bed seems to be linear. Therefore, to improve their sleep, Bellabeat users can benefit from the use of notifications before bed.
 
-![image](https://user-images.githubusercontent.com/47353881/216394643-07cf00d9-e955-4e0e-bec9-6ed3580aae39.png)
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/47353881/216405545-e2ba8de1-ae76-45fe-b623-319ba774452f.png">
 
-![image](https://user-images.githubusercontent.com/47353881/216394602-5da4cf74-18de-4a28-9a9f-614bb884641b.png)
+<img width="495" alt="image" src="https://user-images.githubusercontent.com/47353881/216405464-79fe8df7-aae4-4d08-87ef-da353c19e7ba.png">
 
 ## 5. Conclusion
 
